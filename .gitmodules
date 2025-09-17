@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/MatthiasCaroux/campus_zen_backend.git
+    branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/MatthiasCaroux/campus_zen_frontend.git
+    branch = main
